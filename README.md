@@ -1,20 +1,20 @@
 # 💫 About Me:
-🔭 Currently Working On:
+🔭 Currently Working On:<br>
 Building dynamic web apps, refining my e-commerce site Nepal Kicks, and exploring machine learning and AI deployment.
 
-👯 Looking to Collaborate On:
+👯 Looking to Collaborate On:<br>
 Projects blending web development with AI/data analysis, open-source Python tools, and intelligent web systems.
 
-🤝 Seeking Help With:
+🤝 Seeking Help With:<br>
 Optimizing ML models, integrating AI into web apps, advanced data analysis, algorithm understanding, and cloud deployment.
 
-🌱 Learning:
+🌱 Learning:<br>
 Deep learning with Python (Scikit-learn, TensorFlow), advanced data visualization, full-stack dev, and practical AI applications.
 
-💬 Ask Me About:
+💬 Ask Me About:<br>
 Responsive web design, simulated projects (e-commerce, travel, news), data analysis (e.g., Titanic dataset), and beginner AI tools.
 
-⚡ Fun Fact:
+⚡ Fun Fact:<br>
 I love both debugging code and designing UIs—and yes, I once built a model that predicted my coffee breaks!
 
 
